@@ -78,6 +78,12 @@ Online marketplaces often struggle to provide relevant product recommendations, 
 
 ---
 
+## Project Poster
+
+📄 **View the Capstone Poster:** [Amazon Beauty Capstone Poster](Amazon_Beauty_Capstone_Poster.pdf)
+
+
+
 ## Author
 
 Vassu Patel

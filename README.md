@@ -78,10 +78,6 @@ Online marketplaces often struggle to provide relevant product recommendations, 
 
 ---
 
-
-## Author 
-
-Vassu Patel
 ## Author
 
 Vassu Patel
